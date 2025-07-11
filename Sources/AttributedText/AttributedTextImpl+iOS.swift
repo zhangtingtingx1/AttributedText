@@ -36,7 +36,7 @@
         self.backgroundColor = .clear
         self.textContainerInset = .zero
         self.isEditable = false
-        self.isSelectable = false
+        self.isSelectable = true
         self.isScrollEnabled = false
         self.textContainer.lineFragmentPadding = 0
 
